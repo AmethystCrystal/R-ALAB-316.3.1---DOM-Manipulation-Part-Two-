@@ -1,3 +1,7 @@
+// DOM Manipulation Part 1
+// _________________________________________________________________
+
+
 // PART ONE: Getting Started
 
 const mainEl = document.querySelector("main");
@@ -33,7 +37,13 @@ menuLinks.forEach(link => {
     topMenuEl.appendChild(anchorTag);
 });
 
-// PART FOUR: Adding Interactivity
+// _________________________________________________________________
+
+
+// DOM Manipulation Part 2
+
+
+// PART TWO: Adding Additional HTML and CSS
 
 
 
