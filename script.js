@@ -43,7 +43,13 @@ menuLinks.forEach(link => {
 // DOM Manipulation Part 2
 
 
-// PART TWO: Adding Additional HTML and CSS
+// PART THREE: Creating the Submenu
 
+const subMenuEl = document.querySelector("#sub-menu");
+subMenuEl.style.height = "100%";
+subMenuEl.style.backgroundColor = "#3da4ab";
+subMenuEl.classList.add = "flex-around";
+subMenuEl.style.position ="absolute";
+subMenuEl.style.top ="0";
 
 
